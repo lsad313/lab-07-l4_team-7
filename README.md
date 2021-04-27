@@ -1,2 +1,7 @@
 # Lab-07
-Write your names here.
+Tumanu Ulale
+Liona Sadler
+Pratik Jivanji
+
+---------------------
+
