@@ -66,7 +66,7 @@ for (i in person.phoneNumbers) {
 console.log("Students: "+ roster.students[0].name);
 roster.AddStudent(student2);
 console.log("Students: " + roster.students[0].name + ", " + roster.students[1].name);
-console.log("Majors: "+ student.majors);
-console.log("Add major: 'Geography'");
+console.log("Majors for " + roster.students[0].name + " :" + roster.students[0].majors);
+console.log("Add major: 'Geography' to 'Pratik Jivanji'");
 roster.students[0].AddMajor("Geography");
-console.log("Majors: " + roster.students[0].majors);
+console.log("Majors for " + roster.students[0].name + " :" + roster.students[0].majors);
